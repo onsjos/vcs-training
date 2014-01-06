@@ -1,0 +1,60 @@
+Books/Tutorials
+---------------
+Git Project Homepage       ; http://git-scm.com/
+Git Project Link directory ; http://git-scm.com/documentation/external-links
+Git Magic                  ; http://www-cs-students.stanford.edu/~blynn/gitmagic/
+GitHub Help Pages          ; https://help.github.com/
+Atlassian Git Tutorial     ; https://www.atlassian.com/git/tutorial/
+Git Ready                  ; http://gitready.com/
+Git Reference              ; http://gitref.org/
+
+
+Interactive tutorials
+---------------------
+Git Immersion       ; http://gitimmersion.com/
+Try Git             ; http://try.github.io
+Learn Git Branching ; http://pcottle.github.io/learnGitBranching/
+
+
+Workflows
+---------
+Atlassian Git Workflows                ; https://www.atlassian.com/git/workflows
+Git-Flow                               ; http://nvie.com/posts/a-successful-git-branching-model/
+GitHub-Flow                            ; http://scottchacon.com/2011/08/31/github-flow.html
+How GitHub uses GitHub to build GitHub ; http://www.youtube.com/watch?v=qyz3jkOBbQY&hd=1
+
+
+Git repository hosting - online services
+----------------------------------------
+BitBucket            ; https://bitbucket.org/
+GitHub               ; https://github.com/
+Google Code          ; http://code.google.com/
+Visual Studio Online ; http://www.visualstudio.com/
+Atlassian On Demand  ; https://www.atlassian.com/software/ondemand/overview/
+
+
+Git repository hosting - on-premises
+------------------------------------
+Eight Ways to Share Your Git Repository ; http://www.jedi.be/blog/2009/05/06/8-ways-to-share-your-git-repository/
+GitHub Enterprise                       ; https://enterprise.github.com/
+Atlassian Stash                         ; https://www.atlassian.com/software/stash/overview
+Fog Creek Kiln                          ; http://www.fogcreek.com/kiln/
+GitLab (free, open source GitHub clone) ; http://gitlab.org/
+Gerrit (emphasis on code reviews)       ; http://code.google.com/p/gerrit/
+Microsoft Team Foundation Server 2013   ; http://www.visualstudio.com/products/tfs-overview-vs
+
+
+Interacting with other systems
+------------------------------
+Git-SVN Crash Course    ; http://git.or.cz/course/svn.html
+Team Foundation Server  ; http://gittf.codeplex.com/
+Visual Studio 2005-2008 ; http://gitscc.codeplex.com/
+Visual Studio 2012      ; http://bit.ly/VvYiak
+Visual Studio Diff      ; http://stackoverflow.com/a/18133855/
+Windows PowerShell      ; https://github.com/dahlbyk/posh-git
+
+
+Miscellaneous
+-------------
+Five Advanced Git Merge Techniques ; http://blog.ezyang.com/2010/01/advanced-git-merge/
+Pre-Commit Hooks                   ; http://tech.yipit.com/2011/11/16/183772396/
