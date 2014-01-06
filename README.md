@@ -1,6 +1,7 @@
 vcs-training
 ============
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -9,3 +10,5 @@ vcs-training
 =======
 Het is leuk hier
 >>>>>>> 3141950007f32ef7f4ef94d2830f2726d1b39d78
+=======
+>>>>>>> 6ff300e2b62b8023d257415e36fa7b227546e4e1
